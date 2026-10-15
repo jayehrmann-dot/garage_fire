@@ -1,7 +1,11 @@
 # Garage Fire
 
-Early-morning garage fire. Aim the hose and hold the button to set how far the water reaches.
+Early-morning garage fire. Aim the hose and hold the button to set how far the water reaches. Drench the flames with water to save the garage
 Needs a terminal of at least 80 columns x 23 rows.
+
+<p align="center">
+<img width="584" height="399" alt="garage_fire" src="https://github.com/user-attachments/assets/f692e0fe-6a68-42b8-9666-489dcc9cba3d" />
+</p>
 
 ```bash
 ./play.sh
